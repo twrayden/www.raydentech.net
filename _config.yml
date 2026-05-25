@@ -26,10 +26,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Cloud and software experts. We build robust cloud apps, consult and migrate, handle integrations, boost SEO, and provide expert project management.
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://www.wintersoft.net" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: raydentech
-facebook_username: raydentech
-instagram_username: raydentech
-youtube_username: raydentech
+# linkedin_username: raydentech
+# facebook_username: raydentech
+# instagram_username: raydentech
+# youtube_username: raydentech
 
 plugins:
   - jekyll-sitemap
