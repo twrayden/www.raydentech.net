@@ -6,7 +6,7 @@ nav_label: Contact
 ---
 
 
-<form id="contact-form" method="POST" action="https://your-lambda-endpoint.amazonaws.com/contact" style="max-width: 500px; margin: 0 auto;">
+<form id="contact-form" method="POST" action="https://your-lambda-endpoint.amazonaws.com/contact">
 	<label for="firstName">First Name*</label>
 	<input type="text" id="firstName" name="firstName" required>
 
