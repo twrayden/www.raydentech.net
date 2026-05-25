@@ -9,9 +9,8 @@ nav_label: Portfolio
 ---
 
 <section class="page-card">
-	<h2>Portfolio</h2>
+	<h2>LADesign</h2>
 	<div class="portfolio-item">
-		<strong>LADesign</strong><br>
 		<a href="https://www.ladesign.net.au" target="_blank">www.ladesign.net.au</a>
 	</div>
 </section>
