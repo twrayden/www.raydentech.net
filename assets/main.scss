@@ -1,3 +1,55 @@
+/* Contact Form Styles */
+#contact-form {
+  background: #fff;
+  border: 2px solid #e5e7eb;
+  max-width: 500px;
+  margin: 32px auto;
+  padding: 32px 24px 24px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  border-radius: 0;
+}
+#contact-form label {
+  font-weight: 600;
+  margin-bottom: 4px;
+  color: #222;
+}
+#contact-form input,
+#contact-form textarea {
+  border: 2px solid #e5e7eb;
+  border-radius: 0;
+  padding: 10px;
+  font-size: 1rem;
+  font-family: inherit;
+  margin-bottom: 2px;
+  background: #fafbfc;
+  transition: border-color 0.2s;
+}
+#contact-form input:focus,
+#contact-form textarea:focus {
+  border-color: #2563eb;
+  outline: none;
+}
+#contact-form button[type="submit"] {
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  border-radius: 0;
+  padding: 12px 0;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  margin-top: 8px;
+  transition: background 0.2s;
+}
+#contact-form button[type="submit"]:hover {
+  background: #1d4ed8;
+}
+#form-status {
+  font-size: 1rem;
+  min-height: 1.5em;
+}
 ---
 ---
 
@@ -11,11 +63,12 @@ body {
   padding: 0;
 }
 
+
 .hero {
-  background: linear-gradient(90deg, #e0e7ff 0%, #f0f4ff 100%);
-  padding: 60px 20px 40px 20px;
+  background: #f5f7fa;
+  padding: 48px 20px 32px 20px;
   text-align: center;
-  border-radius: 0 0 24px 24px;
+  border-bottom: 2px solid #e5e7eb;
   margin-bottom: 32px;
 }
 .hero h1 {
@@ -28,6 +81,7 @@ body {
   color: #4b5563;
 }
 
+
 .services {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -39,16 +93,17 @@ body {
 
 .service {
   background: #fff;
-  border-radius: 16px;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  border: 2px solid #e5e7eb;
+  box-shadow: none;
   padding: 32px 24px 24px 24px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  transition: box-shadow 0.2s;
+  transition: border-color 0.2s;
+  border-radius: 0;
 }
 .service:hover {
-  box-shadow: 0 6px 24px rgba(0,0,0,0.10);
+  border-color: #2563eb;
 }
 .service h3 {
   font-size: 1.3rem;
@@ -66,7 +121,7 @@ body {
   background: #2563eb;
   color: #fff;
   padding: 10px 22px;
-  border-radius: 8px;
+  border-radius: 0;
   text-decoration: none;
   font-weight: 600;
   letter-spacing: 0.02em;
@@ -79,7 +134,7 @@ body {
 @media (max-width: 600px) {
   .hero {
     padding: 36px 8px 24px 8px;
-    border-radius: 0 0 12px 12px;
+    border-bottom: 1px solid #e5e7eb;
   }
   .services {
     gap: 16px;
@@ -87,6 +142,6 @@ body {
   }
   .service {
     padding: 18px 10px 16px 10px;
-    border-radius: 8px;
+    border-radius: 0;
   }
 }
