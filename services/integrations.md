@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Integrations
@@ -14,3 +15,7 @@ permalink: /services/integrations/
 		<li><strong>Custom Solutions:</strong> Tailored integrations for unique business needs, including CRMs, ERPs, and more.</li>
 	</ul>
 </section>
+
+<div class="cta-container">
+	<a class="cta-button" href="/contact/">Contact us about integrations</a>
+</div>

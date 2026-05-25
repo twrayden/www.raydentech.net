@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Project Management & Consulting
@@ -14,3 +15,7 @@ permalink: /services/project-management-and-consulting/
 		<li><strong>Infrastructure Review:</strong> Identify areas for improvement and optimize your existing systems.</li>
 	</ul>
 </section>
+
+<div class="cta-container">
+	<a class="cta-button" href="/contact/">Contact us to discuss your project</a>
+</div>

@@ -3,6 +3,66 @@
 
 @import "minima";
 
+/* Call to Action Button Styles */
+.cta-container {
+  text-align: center;
+  margin: 40px 0 0 0;
+}
+.cta-button {
+  display: inline-block;
+  background: #2563eb;
+  color: #fff;
+  padding: 16px 32px;
+  border-radius: 0;
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background 0.2s;
+  box-shadow: 0 2px 8px rgba(37,99,235,0.08);
+  margin-top: 8px;
+}
+.cta-button:hover {
+  background: #1d4ed8;
+}
+
+/* Footer Styles */
+.site-footer {
+  background: #f5f7fa;
+  border-top: 2px solid #e5e7eb;
+  padding: 24px 0;
+  margin-top: 48px;
+  font-size: 1rem;
+}
+.footer-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0 24px;
+}
+.footer-title {
+  font-weight: 700;
+  color: #2563eb;
+  font-size: 1.1rem;
+}
+.footer-description {
+  color: #374151;
+  font-size: 1rem;
+  margin-left: 24px;
+}
+@media (max-width: 700px) {
+  .footer-container {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .footer-description {
+    margin-left: 0;
+  }
+}
+
 /* Boxy card style for all main pages */
 .page-card {
   background: #fff;

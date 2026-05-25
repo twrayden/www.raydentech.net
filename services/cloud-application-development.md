@@ -15,3 +15,7 @@ permalink: /services/cloud-application-development/
     <li><strong>Cross-platform & PWA:</strong> Reach users everywhere with responsive, installable apps that work on any device.</li>
   </ul>
 </section>
+
+<div class="cta-container">
+  <a class="cta-button" href="/contact/">Contact us to start your cloud project</a>
+</div>

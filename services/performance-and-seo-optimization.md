@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Performance & SEO Optimization
@@ -15,3 +16,7 @@ permalink: /services/performance-and-seo-optimization/
 		<li><strong>Ongoing Monitoring:</strong> Track performance and SEO metrics to ensure lasting results.</li>
 	</ul>
 </section>
+
+<div class="cta-container">
+	<a class="cta-button" href="/contact/">Contact us to boost your site</a>
+</div>

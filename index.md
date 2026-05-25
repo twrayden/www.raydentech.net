@@ -33,3 +33,5 @@ layout: home
         <a href="/services/project-management-and-consulting">Learn more</a>
     </div>
 </section>
+
+{% include cta.html %}
