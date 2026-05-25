@@ -29,10 +29,11 @@
 
 /* Footer Styles */
 /* Footer Styles - improved contrast and alignment */
+/* Footer Styles - reverted to light background, improved alignment */
 .site-footer {
-  background: #2563eb;
-  color: #fff;
-  border-top: none;
+  background: #f5f7fa;
+  color: #2563eb;
+  border-top: 2px solid #e5e7eb;
   padding: 24px 0;
   margin-top: 48px;
   font-size: 1rem;
@@ -48,13 +49,30 @@
 }
 .footer-title {
   font-weight: 700;
-  color: #fff;
+  color: #2563eb;
   font-size: 1.1rem;
 }
 .footer-description {
-  color: #fff;
+  color: #374151;
   font-size: 1rem;
   margin-left: 0;
+}
+.footer-left, .footer-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+@media (max-width: 700px) {
+  .footer-container {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .footer-left, .footer-right {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 /* Remove margin on second line, ensure flush alignment */
 .footer-left, .footer-right {
