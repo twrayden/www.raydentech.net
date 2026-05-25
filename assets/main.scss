@@ -53,6 +53,10 @@
   color: #222;
 }
 #contact-form input,
+ #contact-form textarea {
+  resize: vertical;
+}
+#contact-form input,
 #contact-form textarea {
   border: 2px solid #e5e7eb;
   border-radius: 0;
