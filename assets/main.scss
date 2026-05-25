@@ -38,12 +38,14 @@
   background: #fff;
   border: 2px solid #e5e7eb;
   max-width: 800px;
-  margin: 32px auto;
+  width: 100%;
+  margin: 0 auto;
   padding: 32px 24px 24px 24px;
   display: flex;
   flex-direction: column;
   gap: 18px;
   border-radius: 0;
+  box-sizing: border-box;
 }
 #contact-form label {
   font-weight: 600;
@@ -103,11 +105,12 @@ body {
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  padding: 56px 0 40px 0;
+  padding: 0 0 40px 0;
   text-align: center;
   border-bottom: 2px solid #e5e7eb;
   margin-bottom: 32px;
   box-sizing: border-box;
+  z-index: 1;
 }
 .hero h1 {
   font-size: 2.5rem;
