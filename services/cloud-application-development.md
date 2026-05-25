@@ -5,7 +5,7 @@ permalink: /services/cloud-application-development/
 ---
 
 <section class="page-card">
-  <h2>Cloud Application Development</h2>
+  <h2>What We Build for You</h2>
   <p>We specialise in building robust, scalable cloud-native applications tailored to your business needs. Our team can help you design and develop intuitive, user-centric apps that are a pleasure to use and ready to grow with your business.</p>
   <ul>
     <li><strong>Custom Application Development:</strong> Innovative, user-focused solutions for web, mobile, and desktop.</li>

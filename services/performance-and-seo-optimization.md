@@ -5,7 +5,7 @@ permalink: /services/performance-and-seo-optimization/
 ---
 
 <section class="page-card">
-	<h2>Performance & SEO Optimization</h2>
+	<h2>Unlock Your Site’s Full Potential</h2>
 	<p>Boost your website’s speed, user experience, and search engine visibility. We combine technical expertise with proven SEO strategies to help your site rank higher and convert more visitors.</p>
 	<ul>
 		<li><strong>Technical SEO:</strong> Ensure your site is crawlable, indexable, and free of technical issues that hurt rankings.</li>

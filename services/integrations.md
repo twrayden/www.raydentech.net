@@ -5,7 +5,7 @@ permalink: /services/integrations/
 ---
 
 <section class="page-card">
-	<h2>Integrations</h2>
+	<h2>Seamless Connections for Your Business</h2>
 	<p>We develop seamless integrations between your systems—whether internal or external, new or existing. Our expertise covers everything from accounting software (like Xero or QuickBooks) to custom APIs, ensuring your data flows smoothly and securely.</p>
 	<ul>
 		<li><strong>API Integrations:</strong> Connect your business tools and automate data exchange between platforms.</li>
