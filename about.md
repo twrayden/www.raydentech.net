@@ -5,4 +5,8 @@ permalink: /about/
 nav_label: About
 ---
 
-We are software company that is passionate about software in the cloud and believe it's the future for all software.
+
+<section class="page-card">
+	<h2>About Us</h2>
+	<p>We are a software company passionate about building in the cloud. We believe cloud-native is the future for all software.</p>
+</section>

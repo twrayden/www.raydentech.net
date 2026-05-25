@@ -8,32 +8,37 @@ permalink: /services/
 nav_label: Services
 ---
 
-## Software Development
+<section class="page-card">
+	<h2>Software Development</h2>
+	<ul>
+		<li>Website</li>
+		<li>Online Store</li>
+		<li>Web Application</li>
+		<li>Mobile Application</li>
+		<li>API Integration</li>
+		<li>Unit Testing</li>
+	</ul>
+</section>
 
-- Website
-- Online Store
-- Web Application
-- Mobile Application
-- API Integration
-- Unit Testing
-
-## Specialised Consulting
-
-### for Software Development
-
-- General Technical/Architecture Advice
-- Project Planning
-- Project Execution & Oversight
-
-### for Cloud Computing
-
-- General Cloud Advice
-- Cloud Migration
-- Cloud Environment Management/Support
-
-### for Website SEO & Performance
-
-- Technical SEO
-- On-Page SEO
-- Off-Page SEO
-- Performance Diagnosis & Optimisation
+<section class="page-card">
+	<h2>Specialised Consulting</h2>
+	<h3>For Software Development</h3>
+	<ul>
+		<li>General Technical/Architecture Advice</li>
+		<li>Project Planning</li>
+		<li>Project Execution &amp; Oversight</li>
+	</ul>
+	<h3>For Cloud Computing</h3>
+	<ul>
+		<li>General Cloud Advice</li>
+		<li>Cloud Migration</li>
+		<li>Cloud Environment Management/Support</li>
+	</ul>
+	<h3>For Website SEO &amp; Performance</h3>
+	<ul>
+		<li>Technical SEO</li>
+		<li>On-Page SEO</li>
+		<li>Off-Page SEO</li>
+		<li>Performance Diagnosis &amp; Optimisation</li>
+	</ul>
+</section>

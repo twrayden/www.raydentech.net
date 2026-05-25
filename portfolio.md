@@ -8,6 +8,10 @@ permalink: /portfolio/
 nav_label: Portfolio
 ---
 
-## LADesign
-
-<a href="https://www.ladesign.net.au" target="_blank">www.ladesign.net.au</a>
+<section class="page-card">
+	<h2>Portfolio</h2>
+	<div class="portfolio-item">
+		<strong>LADesign</strong><br>
+		<a href="https://www.ladesign.net.au" target="_blank">www.ladesign.net.au</a>
+	</div>
+</section>
