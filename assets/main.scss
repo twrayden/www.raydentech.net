@@ -175,6 +175,19 @@ h6 {
   color: rgba(255, 255, 255, 0.72);
 }
 
+.hero a,
+.hero a:visited {
+  color: #ffffff;
+  text-decoration-color: rgba(255, 255, 255, 0.72);
+}
+
+.hero a:hover,
+.hero a:focus,
+.hero a:active {
+  color: rgba(255, 255, 255, 0.82);
+  text-decoration-color: rgba(255, 255, 255, 0.82);
+}
+
 .services {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
