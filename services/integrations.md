@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Integrations
+title: API Integrations & Systems Integration Services
 permalink: /services/integrations/
+description: API and systems integration services covering business platforms, data flows, automation, and reliable production-ready connections.
 ---
 
 <section class="page-card">

@@ -5,6 +5,7 @@
 layout: page
 title: Software, Cloud & AI Consulting Services in Perth
 permalink: /cloud-consulting-services-perth/
+description: Software, cloud, and AI consulting services in Perth for businesses improving existing systems or building new technical capability.
 ---
 
 <section class="page-card">

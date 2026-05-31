@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Cloud Application Development
+title: Custom Software & Cloud Application Development
 permalink: /services/cloud-application-development/
+description: Custom software and cloud application development for businesses that need scalable systems, APIs, integrations, and reliable delivery.
 ---
 
 <section class="page-card">

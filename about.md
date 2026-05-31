@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Software development specialists
+title: About Rayden Technologies
 permalink: /about/
 nav_label: About
+description: Learn how Rayden Technologies approaches software development, integrations, architecture, and technical delivery.
 ---
 
 

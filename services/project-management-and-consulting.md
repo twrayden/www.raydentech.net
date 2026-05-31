@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Project Management & Consulting
+title: Technical Project Consulting & Delivery Support
 permalink: /services/project-management-and-consulting/
+description: Technical consulting and delivery support for software projects that need planning, architecture guidance, and experienced oversight.
 ---
 
 <section class="page-card">

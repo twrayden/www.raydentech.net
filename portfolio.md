@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Portfolio
+title: Project Portfolio
 permalink: /portfolio/
 nav_label: Portfolio
+description: Selected project work delivered by Rayden Technologies across software, integrations, and website implementation.
 ---
 
 <section class="page-card">

@@ -24,8 +24,8 @@ tagline: >-
   Cloud and software professionals
 description: >- # this means to ignore newlines until "baseurl:"
   Software development, integrations, AI application work, technical consulting, and website optimisation.
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://www.wintersoft.net" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://raydentech.net" # the base hostname & protocol for your site
 # linkedin_username: raydentech
 # facebook_username: raydentech
 # instagram_username: raydentech

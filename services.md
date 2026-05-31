@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Services
+title: Software Development & Technical Consulting Services
 permalink: /services/
 nav_label: Services
+description: Software development, integrations, automation, AI application work, and technical consulting services focused on reliable delivery.
 ---
 
 <section class="page-card">
@@ -59,6 +60,7 @@ nav_label: Services
 		<li>Delivery oversight for engineering work</li>
 		<li>Review of existing systems to identify technical risk and next steps</li>
 	</ul>
+	<p>For Perth-based businesses, we also offer a dedicated <a href="/cloud-consulting-services-perth/">software, cloud, and AI consulting service in Perth</a>.</p>
 </section>
 
 <section class="page-card">

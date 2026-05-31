@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Financial Software & Trading Systems
+title: Financial Software & IBKR Integration Development
 permalink: /services/quantitative-finance-and-ibkr-integrations/
+description: Financial software development, IBKR integrations, trading systems, and finance-related automation built for technical reliability.
 ---
 
 <section class="page-card">

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: AI Application Layer Development & Integrations
+title: AI Application Development & Integrations
 permalink: /services/ai-application-layer-development-and-integrations/
+description: AI application development and integration services focused on managed AI services, workflow automation, and production-ready implementation.
 ---
 
 <section class="page-card">

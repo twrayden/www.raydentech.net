@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Contact Us
+title: Contact Rayden Technologies
 permalink: /contact/
 nav_label: Contact
+description: Contact Rayden Technologies about software development, integrations, AI application work, technical consulting, or website optimisation.
 ---
 
 

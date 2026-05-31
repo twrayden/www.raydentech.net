@@ -3,12 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+description: Delivery-first software development, integrations, AI application work, and technical consulting for businesses that need reliable implementation.
 ---
 
 
 <section class="hero">
     <h1>Cloud Solutions & Software Development</h1>
     <p>Reliable software, integrations, and systems built with clear thinking and solid delivery.</p>
+    <p><a href="/cloud-consulting-services-perth">Perth software, cloud, and AI consulting services</a> for businesses that need hands-on technical support.</p>
 </section>
 
 <section class="services">

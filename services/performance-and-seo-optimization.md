@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Performance & SEO Optimization
+title: Website Performance & Technical SEO Optimization
 permalink: /services/performance-and-seo-optimization/
+description: Improve website speed, technical SEO, crawlability, and site structure without turning the work into a full redesign project.
 ---
 
 <section class="page-card">
