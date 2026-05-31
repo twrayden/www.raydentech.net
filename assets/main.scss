@@ -177,15 +177,15 @@ h6 {
 
 .hero a,
 .hero a:visited {
-  color: #ffffff;
+  color: rgba(255, 255, 255, 0.72);
   text-decoration-color: rgba(255, 255, 255, 0.72);
 }
 
 .hero a:hover,
 .hero a:focus,
 .hero a:active {
-  color: rgba(255, 255, 255, 0.82);
-  text-decoration-color: rgba(255, 255, 255, 0.82);
+  color: #ffffff;
+  text-decoration-color: #ffffff;
 }
 
 .services {
