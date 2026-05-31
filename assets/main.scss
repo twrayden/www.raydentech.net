@@ -226,6 +226,8 @@ h6 {
 #contact-form button[type="submit"],
 .footer-cta {
   display: inline-flex;
+  box-sizing: border-box;
+  max-width: 100%;
   align-items: center;
   justify-content: center;
   gap: 8px;
