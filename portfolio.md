@@ -9,7 +9,7 @@ nav_label: Portfolio
 description: Selected project work delivered by Rayden Technologies across software, integrations, and website implementation.
 ---
 
-<p><em>This portfolio does not include every project. We only list work where the client has agreed to be featured.</em></p>
+<p><em>This portfolio highlights a selection of projects where the client has agreed to be featured.</em></p>
 
 <section class="page-card">
 	<h2>LADesign</h2>
