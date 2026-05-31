@@ -8,13 +8,13 @@ layout: home
 
 <section class="hero">
     <h1>Cloud Solutions & Software Development</h1>
-    <p>Reliable software, cloud systems, and integrations built around solid technical delivery.</p>
+    <p>Reliable software, integrations, and systems built with clear thinking and solid delivery.</p>
 </section>
 
 <section class="services">
     <div class="service">
         <h3>Cloud Application Development</h3>
-        <p>Build back-end services, cloud applications, and supporting systems. For design-heavy interfaces, we work alongside your designer.</p>
+        <p>Build business software, application services, and supporting systems. For design-heavy interfaces, we work alongside your designer.</p>
         <a href="/services/cloud-application-development">Learn more</a>
     </div>
     <div class="service">
@@ -46,7 +46,7 @@ layout: home
 
 <section class="page-card">
     <h2>How We Work</h2>
-    <p>Our strength is in the technical side of delivery: back-end systems, cloud architecture, integrations, and software implementation. We can support front-end or website builds, but if a project depends on substantial visual design, branding, or UX design, that work should be led by a dedicated designer.</p>
+    <p>Our strength is in the technical side of delivery: software architecture, integrations, automation, and reliable implementation. We can support front-end or website builds, but if a project depends on substantial visual design, branding, or UX design, that work should be led by a dedicated designer.</p>
 </section>
 
 {% include cta.html %}

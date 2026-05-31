@@ -27,7 +27,7 @@ permalink: /services/quantitative-finance-and-ibkr-integrations/
 		<li>Broker API integrations and execution support systems</li>
 		<li>Exchange and crypto-platform integrations</li>
 		<li>Market data collection, storage, and processing services</li>
-		<li>Back-end systems for reporting, monitoring, and reconciliation</li>
+		<li>Software systems for reporting, monitoring, and reconciliation</li>
 		<li>Technical consulting on architecture for quantitative or trading platforms</li>
 	</ul>
 </section>

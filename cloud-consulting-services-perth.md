@@ -3,40 +3,40 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Accelerate your Cloud and AI Adoption with our Consulting Services in Perth
+title: Software, Cloud & AI Consulting Services in Perth
 permalink: /cloud-consulting-services-perth/
 ---
 
-With architectural flexibility and exponential technologies like generative AI, you can automate IT, modernize your applications for improved ROI, build cloud-native applications and manage them at scale—on your platform of choice.
+<section class="page-card">
+	<h2>Practical Software &amp; Technology Consulting</h2>
+	<p>We help businesses plan, improve, and modernise their software systems with clear technical advice and hands-on implementation support. That can include software improvement, cloud adoption, AI-enabled workflows, and the operational work needed to keep systems reliable as they grow.</p>
+</section>
 
-## Capabilities
+<section class="page-card">
+	<h2>Capabilities</h2>
 
-### Application migration and modernization
+	<h3>Software Modernisation &amp; Migration</h3>
+	<p>We help you improve existing software, replace outdated systems, and move important workloads onto more maintainable platforms without creating unnecessary disruption.</p>
 
-Our methodology helps you execute seamless cloud migration and modernization that is secure, cost effective and agile, determining the most optimized path for migrating and modernizing mission critical applications.
+	<h3>Architecture &amp; Platform Planning</h3>
+	<p>We work with you to choose sensible architecture, delivery patterns, hosting options, and implementation priorities so your software is easier to maintain and extend.</p>
 
-### Hybrid cloud strategy and architecture consulting
+	<h3>Software &amp; Application Development Support</h3>
+	<p>We provide technical guidance and delivery support for new software features, application improvements, integrations, and platform changes.</p>
 
-We work with you to determine the right hybrid cloud strategy, solutions, operating model, roadmap and ecosystem partnerships, combining our deep industry expertise with technology insights to achieve measurable business outcomes.
+	<h3>Ongoing Improvement &amp; Operational Support</h3>
+	<p>We help teams improve reliability, streamline release processes, and reduce the operational friction that slows software delivery down.</p>
+</section>
 
-### Cloud application development consulting services
+<section class="page-card">
+	<h2>Use Cases</h2>
 
-We help you accelerate innovation at lower costs through a cloud native build strategy. We help you achieve faster time to market and drive revenue growth with open, secure hybrid multi-cloud platforms.
+	<h3>Reduce Software Cost &amp; Complexity</h3>
+	<p>Simplify the platforms and processes around your software so you can reduce waste, improve maintainability, and make future changes easier.</p>
 
-### Application management services for hybrid cloud
+	<h3>Modernise Existing Systems</h3>
+	<p>Update older systems so they are easier to support, easier to extend, and better aligned with how your business works today.</p>
 
-Our hybrid cloud management capabilities uses AI and automation to remove the complexity of managing applications across clouds for improved ROI and freeing up IT resources to innovate.
-
-## Use cases
-
-### Lower application costs and improve ROI
-
-Transform your business model for growth with a hybrid cloud approach, lowering application costs and improving return on investment with AI and automation.
-
-### Modernize and manage your applications
-
-Continuously modernize and manage your applications on any platform with enhanced control and visibility, cybersecurity and regulatory compliance.
-
-### Adopt new ways of working and deliver innovation
-
-We solve internal expertise gaps through deep collaboration—changing the way you innovate to convert successful ideas from pilot to enterprise-scale adoption.
+	<h3>Introduce AI &amp; Automation Carefully</h3>
+	<p>Use AI and automation where they genuinely improve workflows, without turning the work into a vague transformation project.</p>
+</section>
