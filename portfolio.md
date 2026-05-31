@@ -11,6 +11,7 @@ description: Selected project work delivered by Rayden Technologies across softw
 
 <section class="page-card">
 	<h2>LADesign</h2>
+	<p><em>This portfolio does not include every project. We only list work where the client has agreed to be featured.</em></p>
 	<div class="portfolio-item">
 		<a href="https://www.ladesign.net.au" target="_blank">www.ladesign.net.au</a>
 	</div>
