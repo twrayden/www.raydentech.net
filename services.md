@@ -9,36 +9,54 @@ nav_label: Services
 ---
 
 <section class="page-card">
-	<h2>Software Development</h2>
+	<h2>Back-end &amp; Cloud Services</h2>
+	<p>We focus on the technical side of software delivery: back-end systems, integrations, cloud platforms, and the planning needed to ship reliable software. The best fit is work where the core challenge is architecture, data flow, automation, scalability, and operational reliability.</p>
+	<p>We can support broader software and website projects, but we do not provide design services. If a project depends heavily on visual design, branding, or polished front-end UX, that work should be led by a dedicated designer or product team alongside the technical build.</p>
+</section>
+
+<section class="page-card">
+	<h2>What We Help With</h2>
+	<h3>Back-end Services &amp; APIs</h3>
+	<p>We build the service layer that powers products and internal platforms.</p>
 	<ul>
-		<li>Website</li>
-		<li>Online Store</li>
-		<li>Web Application</li>
-		<li>Mobile Application</li>
-		<li>API Integration</li>
-		<li>Unit Testing</li>
+		<li>API design and implementation</li>
+		<li>Service-to-service integrations</li>
+		<li>Business logic and workflow automation</li>
+		<li>Background jobs, event-driven processing, and scheduled tasks</li>
+		<li>Testing strategy for back-end code and integrations</li>
+	</ul>
+	<h3>Cloud Infrastructure &amp; Operations</h3>
+	<p>We help teams run software cleanly in the cloud, with sensible architecture and maintainable operations.</p>
+	<ul>
+		<li>Cloud architecture reviews and technical direction</li>
+		<li>Migration of services and workloads to the cloud</li>
+		<li>Environment setup, deployment pipelines, and release processes</li>
+		<li>Monitoring, reliability, and operational support</li>
+		<li>Performance, scaling, and cost-awareness improvements</li>
+	</ul>
+	<h3>Technical Consulting &amp; Delivery Support</h3>
+	<p>We also support teams that need experienced technical input without handing off the entire build.</p>
+	<ul>
+		<li>Architecture and implementation advice</li>
+		<li>Project scoping and technical planning</li>
+		<li>Delivery oversight for engineering work</li>
+		<li>Review of existing systems to identify technical risk and next steps</li>
 	</ul>
 </section>
 
 <section class="page-card">
-	<h2>Specialised Consulting</h2>
-	<h3>For Software Development</h3>
+	<h2>Best-Fit Engagements</h2>
+	<p>We are strongest on projects where the technical problem matters more than the visual layer.</p>
 	<ul>
-		<li>General Technical/Architecture Advice</li>
-		<li>Project Planning</li>
-		<li>Project Execution &amp; Oversight</li>
+		<li>Modernising or extending an existing product's back end</li>
+		<li>Connecting separate systems so data flows reliably between them</li>
+		<li>Building internal tools, platforms, or automation services</li>
+		<li>Improving cloud architecture, deployment, or operational maturity</li>
+		<li>Providing technical leadership for a delivery team</li>
 	</ul>
-	<h3>For Cloud Computing</h3>
-	<ul>
-		<li>General Cloud Advice</li>
-		<li>Cloud Migration</li>
-		<li>Cloud Environment Management/Support</li>
-	</ul>
-	<h3>For Website SEO &amp; Performance</h3>
-	<ul>
-		<li>Technical SEO</li>
-		<li>On-Page SEO</li>
-		<li>Off-Page SEO</li>
-		<li>Performance Diagnosis &amp; Optimisation</li>
-	</ul>
+	<p>We are also happy to take on selected website or front-end work where the scope is clear and the design side is already handled, minimal, or intentionally lightweight.</p>
 </section>
+
+<div class="cta-container">
+	<a class="cta-button" href="/contact/">Contact us to discuss a back-end or cloud project</a>
+</div>
