@@ -23,8 +23,9 @@ nav_label: Contact
 	<textarea id="message" name="message" rows="5" required></textarea>
 
 	<button type="submit">Send Message</button>
-	<div id="form-status" style="margin-top: 1em;"></div>
 </form>
+
+<div id="form-status" style="margin-top: 1em;" aria-live="polite"></div>
 
 <script src="https://www.google.com/recaptcha/enterprise.js?render=6LeB4AUtAAAAAGB24jh34gjVN6ADPWHBtQy_E32S"></script>
 <script>
@@ -75,6 +76,7 @@ document.getElementById('contact-form').addEventListener('submit', async functio
 			status.style.color = 'green';
 			status.textContent = 'Thank you! Your message has been sent.';
 			form.reset();
+			form.style.display = 'none';
 		} else {
 			let errorText = 'Sorry, there was a problem sending your message.';
 			try {
