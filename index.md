@@ -23,6 +23,16 @@ layout: home
         <a href="/services/integrations">Learn more</a>
     </div>
     <div class="service">
+        <h3>AI Application Layer &amp; Integrations</h3>
+        <p>Build AI-powered application features and connect managed services such as AWS Bedrock into real workflows and software platforms.</p>
+        <a href="/services/ai-application-layer-development-and-integrations">Learn more</a>
+    </div>
+    <div class="service">
+        <h3>Financial Software &amp; Trading Systems</h3>
+        <p>Build finance, trading, crypto, and blockchain-related software, including broker and exchange integrations such as IBKR and BTC Markets.</p>
+        <a href="/services/quantitative-finance-and-ibkr-integrations">Learn more</a>
+    </div>
+    <div class="service">
         <h3>Performance & SEO</h3>
         <p>Improve the speed, technical SEO, and reliability of an existing website without turning it into a full redesign project.</p>
         <a href="/services/performance-and-seo-optimization">Learn more</a>

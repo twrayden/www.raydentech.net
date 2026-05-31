@@ -34,6 +34,23 @@ nav_label: Services
 		<li>Monitoring, reliability, and operational support</li>
 		<li>Performance, scaling, and cost-awareness improvements</li>
 	</ul>
+	<h3>AI Application Layer &amp; Integrations</h3>
+	<p>We help teams add practical AI capabilities to existing products, internal tools, and business workflows.</p>
+	<ul>
+		<li>Application-layer development around managed AI services such as AWS Bedrock</li>
+		<li>AI workflow orchestration, back-end services, and integration into existing systems</li>
+		<li>Production-ready implementation with monitoring, controls, and operational reliability</li>
+	</ul>
+	<h3>Quantitative Finance &amp; Trading Systems</h3>
+	<p>We also build finance, trading, crypto, and blockchain-related software where reliability, data flow, and automation matter more than front-end complexity.</p>
+	<ul>
+		<li>IBKR API integrations for market data, trading, and position management</li>
+		<li>BTC Markets and other exchange integrations</li>
+		<li>Trading workflow automation and supporting back-end services</li>
+		<li>Crypto and blockchain-related supporting software and integrations</li>
+		<li>Market data ingestion and processing pipelines</li>
+		<li>Portfolio, reporting, and operational tooling for finance teams</li>
+	</ul>
 	<h3>Technical Consulting &amp; Delivery Support</h3>
 	<p>We also support teams that need experienced technical input without handing off the entire build.</p>
 	<ul>
