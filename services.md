@@ -10,7 +10,7 @@ description: Software development, integrations, automation, AI application work
 ---
 
 <section class="page-card">
-	<h2>Software Services</h2>
+	<h2>How We Help</h2>
 	<p>We focus on the technical side of software delivery: application architecture, integrations, automation, and the planning needed to ship reliable systems. The best fit is work where the core challenge is structure, data flow, scalability, and operational reliability.</p>
 	<p>We can support broader software and website projects, but we do not provide design services. If a project depends heavily on visual design, branding, or polished front-end UX, that work should be led by a dedicated designer or product team alongside the technical build.</p>
 </section>

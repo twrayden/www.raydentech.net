@@ -1,29 +1,29 @@
 ---
 layout: page
-title: Contact Rayden Technologies
+title: Contact Us
 permalink: /contact/
 nav_label: Contact
 description: Contact Rayden Technologies about software development, integrations, AI application work, technical consulting, or website optimisation.
 ---
 
-
 <form id="contact-form" method="POST" action="https://9lnm1zhzbb.execute-api.ap-southeast-2.amazonaws.com/submit-contact-us-form">
 	<label for="firstName">First Name*</label>
 	<input type="text" id="firstName" name="firstName" required>
 
-	<label for="lastName">Last Name*</label>
-	<input type="text" id="lastName" name="lastName" required>
+    <label for="lastName">Last Name*</label>
+    <input type="text" id="lastName" name="lastName" required>
 
-	<label for="email">Email*</label>
-	<input type="email" id="email" name="email" required>
+    <label for="email">Email*</label>
+    <input type="email" id="email" name="email" required>
 
-	<label for="phone">Phone</label>
-	<input type="tel" id="phone" name="phone">
+    <label for="phone">Phone</label>
+    <input type="tel" id="phone" name="phone">
 
-	<label for="message">Message*</label>
-	<textarea id="message" name="message" rows="5" required></textarea>
+    <label for="message">Message*</label>
+    <textarea id="message" name="message" rows="5" required></textarea>
 
-	<button type="submit">Send Message</button>
+    <button type="submit">Send Message</button>
+
 </form>
 
 <div id="form-status" style="margin-top: 1em;" aria-live="polite"></div>
