@@ -1,10 +1,37 @@
 <footer class="site-footer">
   <div class="footer-container">
-    <div class="footer-left">
-      <span class="footer-title">{{ site.title }}</span>
+    <div class="footer-brand">
+      <a class="footer-title" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+      <p class="footer-copy">Technical-first software delivery for cloud systems, integrations, AI application layers, and finance-related platforms.</p>
+      <a class="footer-cta" href="{{ "/contact/" | relative_url }}">Start a project conversation</a>
     </div>
-    <div class="footer-right">
-      <span class="footer-description">{{ site.description }}</span>
+    <div>
+      <h3 class="footer-heading">Explore</h3>
+      <div class="footer-links">
+        <a href="{{ "/services/" | relative_url }}">Services</a>
+        <a href="{{ "/about/" | relative_url }}">About</a>
+        <a href="{{ "/portfolio/" | relative_url }}">Portfolio</a>
+        <a href="{{ "/contact/" | relative_url }}">Contact</a>
+      </div>
     </div>
+    <div>
+      <h3 class="footer-heading">Focus Areas</h3>
+      <div class="footer-links">
+        <a href="{{ "/services/cloud-application-development/" | relative_url }}">Cloud Application Development</a>
+        <a href="{{ "/services/integrations/" | relative_url }}">Integrations</a>
+        <a href="{{ "/services/ai-application-layer-development-and-integrations/" | relative_url }}">AI Application Layer</a>
+        <a href="{{ "/services/quantitative-finance-and-ibkr-integrations/" | relative_url }}">Financial Software</a>
+      </div>
+    </div>
+    <div>
+      <h3 class="footer-heading">Engagement Style</h3>
+      <div class="footer-links">
+        <span>Back-end systems and APIs</span>
+        <span>Technical architecture and delivery</span>
+        <span>Existing-site optimisation</span>
+        <span>Designer-led UI work when needed</span>
+      </div>
+    </div>
+    <p class="footer-note">Built to present a clean, reliable software delivery practice rather than a generic template.</p>
   </div>
 </footer>
