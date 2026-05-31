@@ -41,3 +41,7 @@ description: Software, cloud, and AI consulting services in Perth for businesses
 	<h3>Introduce AI &amp; Automation Carefully</h3>
 	<p>Use AI and automation where they genuinely improve workflows, without turning the work into a vague transformation project.</p>
 </section>
+
+<div class="cta-container">
+	<a class="cta-button" href="/contact/">Contact us about software, cloud, or AI consulting in Perth</a>
+</div>
